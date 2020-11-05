@@ -2,13 +2,14 @@
 
 ### Introduction
 
-A generating function provides a concise description of a sequence of numbers. Described below are the patterns and consequent generating functions of the 256 rules of elementary cellular automata driven by a single cell. The sequences described are obtained by calculating the pattern in a 64 by 32 cell plane starting from a cell placed at column 32 in row 0 and interpreting living and dead cells subsequent rows as 1s and 0s respectively to create a binary representation (unless noted otherwise).
+A generating function provides a concise description of a sequence of numbers. Described below are the patterns and their resulting generating functions of the 256 rules of elementary cellular automata driven by a single cell. The sequences described are obtained by calculating the pattern in a 64 by 32 cell plane starting from a cell placed at column 32 in row 0 and interpreting living and dead cells in subsequent rows as 1s and 0s respectively to create a binary representation (unless noted otherwise).
 
 
 
 ## Rule 0
 
 ![rule 0](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 0.bmp)
+![rule 0](https://github.com/holmanej/ECA-GenFunc/tree/main/Patterns%2064x32\rule 0.bmp)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
