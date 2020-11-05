@@ -8,7 +8,6 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 0
 
-![rule 0](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 0.bmp?raw=true)
 ![rule 0](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%200.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
@@ -21,7 +20,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 1
 
-![rule 1](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 1.bmp)
+![rule 1](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%201.bmp?raw=true)
 
 #### Sequence: 1, 0, 1, 0, 1, 0, 1, 0, ...
 
@@ -33,7 +32,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 2
 
-![rule 2](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 2.bmp)
+![rule 2](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%202.bmp?raw=true)
 
 #### Sequence: 1, 2, 4, 8, 16, 32, 64, 128, ...
 
@@ -45,7 +44,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 3
 
-![rule 3](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 3.bmp)
+![rule 3](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%203.bmp?raw=true)
 
 #### Sequence: 1/2, 0, 1/4, 0, 1/8, 0, 1/16, 0, ...
 
@@ -57,7 +56,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 4
 
-![rule 4](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 4.bmp)
+![rule 4](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%204.bmp?raw=true)
 
 #### Sequence: 1, 1, 1, 1, 1, 1, 1, 1, ...
 
@@ -69,7 +68,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 5
 
-![rule 5](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 5.bmp)
+![rule 5](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%205.bmp?raw=true)
 
 #### Sequence: 1, 1, 1, 1, 1, 1, 1, 1, ...
 
@@ -81,7 +80,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 6
 
-![rule 6](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 6.bmp)
+![rule 6](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%206.bmp?raw=true)
 
 #### Sequence: 1, 3, 4, 12, 16, 48, 64, 196, ...
 
@@ -93,7 +92,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 7
 
-![rule 7](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 7.bmp)
+![rule 7](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%207.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -105,7 +104,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 9
 
-![rule 9](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 9.bmp)
+![rule 9](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%209.bmp?raw=true)
 
 #### Sequence: 7/4, 1, 7/16, 1/4, 7/64, 1/16, 7/256, 1/64, ...
 
@@ -119,7 +118,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 11
 
-![rule 11](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 11.bmp)
+![rule 11](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2011.bmp?raw=true)
 
 #### Sequence: 3/4, 0, 3/16, 0, 3/64, 0, 3/256, 0, ...
 
@@ -131,7 +130,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 13
 
-![rule 13](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 13.bmp)
+![rule 13](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2013.bmp?raw=true)
 
 #### Sequence: 1/4, 5/16, 21/64, 85/256, 341/1024, 1365/4096, 21845/65536, 87381/262144
 
@@ -143,7 +142,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 14
 
-![rule 14](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 14.bmp)
+![rule 14](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2014.bmp?raw=true)
 
 #### Sequence: 1, 3, 6, 12, 24, 48, 96, 192, ...
 
@@ -155,7 +154,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 15
 
-![rule 15](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 15.bmp)
+![rule 15](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2015.bmp?raw=true)
 
 #### Sequence: 1/4, 0, 1/16, 0, 1/64, 0, 1/256, 0, ...
 
@@ -167,7 +166,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 16
 
-![rule 16](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 16.bmp)
+![rule 16](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2016.bmp?raw=true)
 
 #### Sequence: 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64, 1/128, ...
 
@@ -179,7 +178,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 17
 
-![rule 17](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 17.bmp)
+![rule 17](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2017.bmp?raw=true)
 
 #### Sequence: 1, 0, 2, 0, 4, 0, 8, 0, ...
 
@@ -191,7 +190,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 18
 
-![rule 18](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 18.bmp)
+![rule 18](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2018.bmp?raw=true)
 
 #### Sequence: 1, 5, 17, 85, 257, 1285, 4369, 21845, ...
 
@@ -203,7 +202,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 19
 
-![rule 19](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 19.bmp)
+![rule 19](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2019.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -215,7 +214,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 20
 
-![rule 20](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 20.bmp)
+![rule 20](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2020.bmp?raw=true)
 
 #### Sequence: 1, 1/2, 3/4, 1/8, 3/16, 1/32, 3/64, 1/128, ...
 
@@ -227,7 +226,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 21
 
-![rule 21](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 21.bmp)
+![rule 21](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2021.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -239,7 +238,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 22
 
-![rule 22](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 22.bmp)
+![rule 22](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2022.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -251,7 +250,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 23
 
-![rule 23](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 23.bmp)
+![rule 23](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2023.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -263,7 +262,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 25
 
-![rule 25](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 25.bmp)
+![rule 25](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2025.bmp?raw=true)
 
 #### Sequence: 7, 4, 7/2, 2, 7/4, 1, 7/8, 1/2, ...
 
@@ -275,7 +274,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 27
 
-![rule 27](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 27.bmp)
+![rule 27](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2027.bmp?raw=true)
 
 #### Sequence: 1/2, 0, 1/4, 0, 1/8, 0, 1/16, 0, ...
 
@@ -287,7 +286,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 28
 
-![rule 28](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 28.bmp)
+![rule 28](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2028.bmp?raw=true)
 
 #### Sequence: 1, 3, 5, 11, 21, 43, 85, 171, ...
 
@@ -299,7 +298,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 29
 
-![rule 29](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 29.bmp)
+![rule 29](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2029.bmp?raw=true)
 
 #### Sequence: 1, 1, 1, 1, 1, 1, 1, 1, ...
 
@@ -311,7 +310,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 30
 
-![rule 30](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 30.bmp)
+![rule 30](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2030.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -323,7 +322,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 37
 
-![rule 37](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 37.bmp)
+![rule 37](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2037.bmp?raw=true)
 
 #### Sequence: 7/2, 0, 7/2, 0, 7/2, 0, 7/2, 0, ...
 
@@ -335,7 +334,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 39
 
-![rule 39](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 39.bmp)
+![rule 39](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2039.bmp?raw=true)
 
 #### Sequence: 1/2, 0, 1/4, 0, 1/8, 0, 1/16, 0, ...
 
@@ -347,7 +346,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 41
 
-![rule 41](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 41.bmp)
+![rule 41](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2041.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -359,7 +358,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 45
 
-![rule 45](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 45.bmp)
+![rule 45](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2045.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -371,7 +370,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 47
 
-![rule 47](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 47.bmp)
+![rule 47](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2047.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -383,7 +382,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 50
 
-![rule 50](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 50.bmp)
+![rule 50](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2050.bmp?raw=true)
 
 #### Sequence: 1, 5, 21, 85, 341, 1365, 5461, 21845, ...
 
@@ -395,7 +394,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 51
 
-![rule 51](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 51.bmp)
+![rule 51](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2051.bmp?raw=true)
 
 #### Sequence: 1, 0, 1, 0, 1, 0, 1, 0, ...
 
@@ -407,7 +406,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 53
 
-![rule 53](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 53.bmp)
+![rule 53](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2053.bmp?raw=true)
 
 #### Sequence: 1, 2, 4, 8, 16, 32, 64, 128, ...
 
@@ -419,7 +418,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 54
 
-![rule 54](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 54.bmp)
+![rule 54](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2054.bmp?raw=true)
 
 #### Sequence: 1, 7, 17, 119, 273, 1911, 4369, 30583, ...
 
@@ -431,7 +430,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 57
 
-![rule 57](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 57.bmp)
+![rule 57](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2057.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -443,7 +442,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 59
 
-![rule 59](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 59.bmp)
+![rule 59](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2059.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -455,7 +454,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 60
 
-![rule 60](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 60.bmp)
+![rule 60](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2060.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -467,7 +466,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 61
 
-![rule 61](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 61.bmp)
+![rule 61](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2061.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -479,7 +478,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 62
 
-![rule 62](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 62.bmp)
+![rule 62](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2062.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -491,7 +490,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 65
 
-![rule 65](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 65.bmp)
+![rule 65](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2065.bmp?raw=true)
 
 #### Sequence: 7, 1, 28, 4, 118, 16, 448, 64, ...
 
@@ -503,7 +502,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 67
 
-![rule 67](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 67.bmp)
+![rule 67](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2067.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -515,7 +514,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 69
 
-![rule 69](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 69.bmp)
+![rule 69](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2069.bmp?raw=true)
 
 #### Sequence: 1, 5, 21, 85, 341, 1365, 5461, 21845, 87381
 
@@ -527,7 +526,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 70
 
-![rule 70](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 70.bmp)
+![rule 70](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2070.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -539,7 +538,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 71
 
-![rule 71](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 71.bmp)
+![rule 71](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2071.bmp?raw=true)
 
 #### Sequence: 1, 1, 1, 1, 1, 1, 1, 1, ...
 
@@ -551,7 +550,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 73
 
-![rule 73](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 73.bmp)
+![rule 73](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2073.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -563,7 +562,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 75
 
-![rule 75](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 75.bmp)
+![rule 75](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2075.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -575,7 +574,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 77
 
-![rule 77](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 77.bmp)
+![rule 77](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2077.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -587,7 +586,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 78
 
-![rule 78](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 78.bmp)
+![rule 78](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2078.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -599,7 +598,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 79
 
-![rule 79](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 79.bmp)
+![rule 79](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2079.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -611,7 +610,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 81
 
-![rule 81](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 81.bmp)
+![rule 81](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2081.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -623,7 +622,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 83
 
-![rule 83](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 83.bmp)
+![rule 83](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2083.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -635,7 +634,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 84
 
-![rule 84](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 84.bmp)
+![rule 84](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2084.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -647,7 +646,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 85
 
-![rule 85](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 85.bmp)
+![rule 85](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2085.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -659,7 +658,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 86
 
-![rule 86](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 86.bmp)
+![rule 86](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2086.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -671,7 +670,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 89
 
-![rule 89](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 89.bmp)
+![rule 89](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2089.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -683,7 +682,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 91
 
-![rule 91](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 91.bmp)
+![rule 91](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2091.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -695,7 +694,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 92
 
-![rule 92](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 92.bmp)
+![rule 92](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2092.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -707,7 +706,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 93
 
-![rule 93](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 93.bmp)
+![rule 93](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2093.bmp?raw=true)
 
 #### Sequence: 1, 5, 21, 85, 341, 1365, 5461, 21845, 87381
 
@@ -719,7 +718,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 94
 
-![rule 94](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 94.bmp)
+![rule 94](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2094.bmp?raw=true)
 
 #### Sequence: 1, 7, 27, 119, 427, 1879, 6827, 30039, ...
 
@@ -731,7 +730,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 97
 
-![rule 97](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 97.bmp)
+![rule 97](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2097.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -743,7 +742,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 99
 
-![rule 99](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 99.bmp)
+![rule 99](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2099.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -755,7 +754,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 101
 
-![rule 101](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 101.bmp)
+![rule 101](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20101.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -767,7 +766,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 102
 
-![rule 102](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 102.bmp)
+![rule 102](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20102.bmp?raw=true)
 
 #### Sequence: 1, 3, 5, 15, 17, 51, 85, 255, ...
 
@@ -779,7 +778,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 103
 
-![rule 103](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 103.bmp)
+![rule 103](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20103.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -791,7 +790,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 105
 
-![rule 105](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 105.bmp)
+![rule 105](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20105.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -803,7 +802,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 107
 
-![rule 107](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 107.bmp)
+![rule 107](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20107.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -815,7 +814,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 109
 
-![rule 109](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 109.bmp)
+![rule 109](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20109.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -827,7 +826,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 110
 
-![rule 110](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 110.bmp)
+![rule 110](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20110.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -839,7 +838,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 111
 
-![rule 111](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 111.bmp)
+![rule 111](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20111.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -851,7 +850,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 115
 
-![rule 115](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 115.bmp)
+![rule 115](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20115.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -863,7 +862,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 117
 
-![rule 117](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 117.bmp)
+![rule 117](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20117.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -875,7 +874,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 118
 
-![rule 118](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 118.bmp)
+![rule 118](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20118.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -887,7 +886,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 121
 
-![rule 121](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 121.bmp)
+![rule 121](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20121.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -899,7 +898,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 123
 
-![rule 123](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 123.bmp)
+![rule 123](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20123.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -911,7 +910,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 124
 
-![rule 124](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 124.bmp)
+![rule 124](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20124.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -923,7 +922,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 125
 
-![rule 125](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 125.bmp)
+![rule 125](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20125.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -935,7 +934,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 126
 
-![rule 126](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 126.bmp)
+![rule 126](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20126.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -947,7 +946,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 129
 
-![rule 129](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 129.bmp)
+![rule 129](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20129.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -959,7 +958,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 131
 
-![rule 131](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 131.bmp)
+![rule 131](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20131.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -971,7 +970,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 133
 
-![rule 133](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 133.bmp)
+![rule 133](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20133.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -983,7 +982,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 135
 
-![rule 135](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 135.bmp)
+![rule 135](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20135.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -995,7 +994,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 137
 
-![rule 137](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 137.bmp)
+![rule 137](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20137.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1007,7 +1006,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 139
 
-![rule 139](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 139.bmp)
+![rule 139](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20139.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1019,7 +1018,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 141
 
-![rule 141](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 141.bmp)
+![rule 141](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20141.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1031,7 +1030,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 143
 
-![rule 143](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 143.bmp)
+![rule 143](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20143.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1043,7 +1042,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 145
 
-![rule 145](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 145.bmp)
+![rule 145](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20145.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1055,7 +1054,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 147
 
-![rule 147](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 147.bmp)
+![rule 147](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20147.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1067,7 +1066,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 149
 
-![rule 149](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 149.bmp)
+![rule 149](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20149.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1079,7 +1078,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 150
 
-![rule 150](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 150.bmp)
+![rule 150](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20150.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1091,7 +1090,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 151
 
-![rule 151](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 151.bmp)
+![rule 151](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20151.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1103,7 +1102,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 153
 
-![rule 153](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 153.bmp)
+![rule 153](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20153.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1115,7 +1114,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 155
 
-![rule 155](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 155.bmp)
+![rule 155](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20155.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1127,7 +1126,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 157
 
-![rule 157](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 157.bmp)
+![rule 157](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20157.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1139,7 +1138,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 158
 
-![rule 158](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 158.bmp)
+![rule 158](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20158.bmp?raw=true)
 
 #### Sequence: 1, 7, 29, 115, 477, 1843, 7645, 29491, ...
 
@@ -1151,7 +1150,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 163
 
-![rule 163](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 163.bmp)
+![rule 163](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20163.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1163,7 +1162,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 165
 
-![rule 165](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 165.bmp)
+![rule 165](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20165.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1175,7 +1174,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 167
 
-![rule 167](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 167.bmp)
+![rule 167](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20167.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1187,7 +1186,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 169
 
-![rule 169](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 169.bmp)
+![rule 169](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20169.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1199,7 +1198,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 173
 
-![rule 173](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 173.bmp)
+![rule 173](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20173.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1211,7 +1210,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 175
 
-![rule 175](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 175.bmp)
+![rule 175](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20175.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1223,7 +1222,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 177
 
-![rule 177](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 177.bmp)
+![rule 177](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20177.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1235,7 +1234,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 179
 
-![rule 179](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 179.bmp)
+![rule 179](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20179.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1247,7 +1246,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 181
 
-![rule 181](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 181.bmp)
+![rule 181](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20181.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1259,7 +1258,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 182
 
-![rule 182](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 182.bmp)
+![rule 182](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20182.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1271,7 +1270,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 185
 
-![rule 185](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 185.bmp)
+![rule 185](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20185.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1283,7 +1282,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 187
 
-![rule 187](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 187.bmp)
+![rule 187](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20187.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1295,7 +1294,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 188
 
-![rule 188](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 188.bmp)
+![rule 188](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20188.bmp?raw=true)
 
 #### Sequence: 1, 3, 5, 15, 29, 55, 93, 247, ...
 
@@ -1307,7 +1306,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 189
 
-![rule 189](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 189.bmp)
+![rule 189](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20189.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1319,7 +1318,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## rule 190
 
-![rule 190](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 190.bmp)
+![rule 190](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20190.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1331,7 +1330,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 193
 
-![rule 193](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 193.bmp)
+![rule 193](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20193.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1343,7 +1342,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 195
 
-![rule 195](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 195.bmp)
+![rule 195](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20195.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1355,7 +1354,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 197
 
-![rule 197](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 197.bmp)
+![rule 197](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20197.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1367,7 +1366,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 199
 
-![rule 199](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 199.bmp)
+![rule 199](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20199.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1379,7 +1378,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 201
 
-![rule 201](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 201.bmp)
+![rule 201](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20201.bmp?raw=true)
 
 #### Sequence: 1, 0, 1, 0, 1, 0,1, 0, ...
 
@@ -1391,7 +1390,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 203
 
-![rule 203](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 203.bmp)
+![rule 203](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20203.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1403,7 +1402,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 205
 
-![rule 205](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 205.bmp)
+![rule 205](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20205.bmp?raw=true)
 
 #### Sequence: 1, 1, 1, 1, 1, 1, 1, 1, ...
 
@@ -1415,7 +1414,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 206
 
-![rule 206](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 206.bmp)
+![rule 206](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20206.bmp?raw=true)
 
 #### Sequence: 1, 3, 7, 15, 31, 63, 127, 255, ...
 
@@ -1427,7 +1426,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 207
 
-![rule 207](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 207.bmp)
+![rule 207](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20207.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1439,7 +1438,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 209
 
-![rule 209](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 209.bmp)
+![rule 209](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20209.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1451,7 +1450,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 211
 
-![rule 211](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 211.bmp)
+![rule 211](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20211.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1463,7 +1462,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 213
 
-![rule 213](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 213.bmp)
+![rule 213](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20213.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1475,7 +1474,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 214
 
-![rule 214](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 214.bmp)
+![rule 214](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20214.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1487,7 +1486,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 217
 
-![rule 217](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 217.bmp)
+![rule 217](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20217.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1499,7 +1498,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 219
 
-![rule 219](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 219.bmp)
+![rule 219](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20219.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1511,7 +1510,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 220
 
-![rule 220](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 220.bmp)
+![rule 220](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20220.bmp?raw=true)
 
 #### Sequence: 1, 3, 7, 15, 31, 63, 127, 255, ...
 
@@ -1523,7 +1522,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 221
 
-![rule 221](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 221.bmp)
+![rule 221](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20221.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1535,7 +1534,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 222
 
-![rule 222](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 222.bmp)
+![rule 222](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20222.bmp?raw=true)
 
 #### Sequence: 1, 7, 31, 127, 511, 2047, 8191, 32767, ...
 
@@ -1547,7 +1546,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 225
 
-![rule 225](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 225.bmp)
+![rule 225](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20225.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1559,7 +1558,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 227
 
-![rule 227](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 227.bmp)
+![rule 227](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20227.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1571,7 +1570,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 229
 
-![rule 229](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 229.bmp)
+![rule 229](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20229.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1583,7 +1582,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 230
 
-![rule 230](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 230.bmp)
+![rule 230](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20230.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1595,7 +1594,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 231
 
-![rule 231](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 231.bmp)
+![rule 231](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20231.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1607,7 +1606,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 233
 
-![rule 233](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 233.bmp)
+![rule 233](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20233.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1619,7 +1618,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 235
 
-![rule 235](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 235.bmp)
+![rule 235](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20235.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1631,7 +1630,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 237
 
-![rule 237](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 237.bmp)
+![rule 237](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20237.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1643,7 +1642,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 239
 
-![rule 239](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 239.bmp)
+![rule 239](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20239.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1655,7 +1654,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 243
 
-![rule 243](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 243.bmp)
+![rule 243](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20243.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1667,7 +1666,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 245
 
-![rule 245](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 245.bmp)
+![rule 245](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20245.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1679,7 +1678,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 246
 
-![rule 246](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 246.bmp)
+![rule 246](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20246.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1691,7 +1690,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 249
 
-![rule 249](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 249.bmp)
+![rule 249](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20249.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1703,7 +1702,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 251
 
-![rule 251](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 251.bmp)
+![rule 251](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20251.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
@@ -1715,7 +1714,7 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ## Rule 253
 
-![rule 253](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 253.bmp)
+![rule 253](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%20253.bmp?raw=true)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
