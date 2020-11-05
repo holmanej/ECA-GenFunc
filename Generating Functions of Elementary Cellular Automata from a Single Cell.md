@@ -9,7 +9,6 @@ A generating function provides a concise description of a sequence of numbers. D
 ## Rule 0
 
 ![rule 0](C:\Users\holma\Documents\ECA Study\Patterns 64x32\rule 0.bmp?raw=true)
-[rule 0](holmanej.github.com/ECA-GenFunc/tree/main/Patterns%2064x32\rule 0.bmp)
 
 #### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
 
