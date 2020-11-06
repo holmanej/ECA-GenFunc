@@ -348,11 +348,11 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ![rule 41](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2041.bmp?raw=true)
 
-#### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
+#### Sequence: 1, 1/2, 0, 0, 1/16, 1/32, 0, 0, ...
 
 #### Duplicates: none
 
-#### Generating Function:	1
+#### Generating Function:	-8 / (x - 2)(x^2^ + 4)
 
 
 
@@ -732,11 +732,11 @@ A generating function provides a concise description of a sequence of numbers. D
 
 ![rule 97](https://github.com/holmanej/ECA-GenFunc/blob/main/Patterns%2064x32/rule%2097.bmp?raw=true)
 
-#### Sequence: 1, 0, 0, 0, 0, 0, 0, 0, ...
+#### Sequence: 1, 2, 0, 0, 16, 32, 0, 0, ...
 
 #### Duplicates: none
 
-#### Generating Function:	1
+#### Generating Function:	-1 / (2x - 1)(4x^2^+1)
 
 
 
